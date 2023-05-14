@@ -2,8 +2,8 @@
 this project uses web frontend and Restful API with node.js dockerlized using docker compose
  
  #about api 
+ api created with Node.js as server 
  baseUrl = http://localhost:5000
-
 post
 (to add person) 
 add to base url "/persons" 
@@ -35,4 +35,11 @@ put in base url "/persons/:id" where id = id you want to delete
 no request is sent
 
 ----------------------------------------------------------
-#front end is a website for adding users and delete users and dispaly them
+#front end is a website for adding users and delete users and dispaly them have 8000 port 
+-using Html5
+-bootstrap
+-css3
+-fontawesome
+-JavaScript
+
+
